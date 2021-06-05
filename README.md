@@ -51,7 +51,11 @@ Decide how to run accordingly with your device:
 
 or 
 
-`npx react-native ios`
+- ios
+
+`npx pod-install` to install all pods
+
+`npx react-native run-ios`
 
 This repo cover this doc [React Native GraphQL CRUD tutorial](https://www.back4app.com/docs/react-native/graphql/data-objects/react-native-graphql-crud-tutorial) from [back4app.com](back4app.com).
 ---
